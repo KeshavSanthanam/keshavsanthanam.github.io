@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Keshav Santhanam's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Keshav Santhanam
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,10 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Resume: "https://www.linkedin.com/in/keshav-santhanam/overlay/1635548476308/single-media-viewer/?profileId=ACoAADPNooUB_wFi2pDNWBwZh6yGF7ykd1_SFe8"
+    - LinkedIn.com: "https://www.linkedin.com/in/keshav-santhanam/"
+    - GitHub: "https://github.com/keshavsanthanam"
+  Author's home: "keshavsanthanam.github.io"
 
 ################
 # --- Logo --- #
