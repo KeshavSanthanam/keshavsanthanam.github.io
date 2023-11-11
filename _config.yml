@@ -129,6 +129,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+## LIGHT MODE ##
 # navbar-col: "#EAEAEA"
 # navbar-text-col: "#404040"
 # navbar-border-col: "#DDDDDD"
@@ -141,23 +142,11 @@ navbar-var-length: false
 # footer-link-col: "#404040"
 # footer-hover-col: "#0085A1"
 
-# navbar-col: "#2C2C2C"
-# navbar-text-col: "#EAEAEA"
-# navbar-border-col: "#555555"
-# page-col: "#1A1A1A"
-# text-col: "#EAEAEA"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#2C2C2C"
-# footer-text-col: "#AAAAAA"
-# footer-link-col: "#EAEAEA"
-# footer-hover-col: "#0085A1"
-
 navbar-col: "#333333"
-navbar-text-col: "#EAEAEA"
+navbar-text-col: "#FBFBFB"
 navbar-border-col: "#555555"
 page-col: "#1A1A1A"
-text-col: "#EAEAEA"
+text-col: "#FBFBFB"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#333333"
