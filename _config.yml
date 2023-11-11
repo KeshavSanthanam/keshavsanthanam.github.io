@@ -25,7 +25,7 @@ navbar-links:
     - Resume: "https://github.com/KeshavSanthanam/keshavsanthanam.github.io/blob/master/KeshavSanthanam.pdf"
     - LinkedIn: "https://www.linkedin.com/in/keshav-santhanam/"
     - GitHub: "https://github.com/keshavsanthanam"
-  Author's home: "keshavsanthanam.github.io"
+  # Author's home: "keshavsanthanam.github.io"
 
 ################
 # --- Logo --- #
