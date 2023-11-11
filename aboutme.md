@@ -17,9 +17,9 @@ I am a Computing Scholars Honors student at UT Dallas studying computer science.
 - Automata Theory
 
 ## Tools I Use
-- Languages: Python, C/C++, Java, React Native, JavaScript, SQL, HTML/CSS, MIPS32, Bash, Verilog
-- Libraries: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, pandas, Matplotlib, Standard Template Library (C++)
-- Developer Tools: Git, Jupyter Notebooks, Google Firebase, Figma
-- Operating Systems: Windows, UNIX
+- **Languages:** Python, C/C++, Java, React Native, JavaScript, SQL, HTML/CSS, MIPS32, Bash, Verilog
+- **Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, NumPy, pandas, Matplotlib, Standard Template Library (C++)
+- **Developer Tools:** Git, Jupyter Notebooks, Google Firebase, Figma
+- **Operating Systems:** Windows, UNIX
 
 
