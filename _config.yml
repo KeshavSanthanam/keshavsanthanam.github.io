@@ -21,6 +21,7 @@ author: Keshav Santhanam
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   Resources:
     - Resume: "https://github.com/KeshavSanthanam/keshavsanthanam.github.io/blob/master/KeshavSanthanam.pdf"
     - LinkedIn: "https://www.linkedin.com/in/keshav-santhanam/"
