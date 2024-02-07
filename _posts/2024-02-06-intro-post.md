@@ -2,7 +2,6 @@
 layout: post
 title: Welcome To My Blog
 subtitle: An Overview
-gh-repo: daattali/beautiful-jekyll
 tags: [meta]
 comments: true
 author: Keshav Santhanam
