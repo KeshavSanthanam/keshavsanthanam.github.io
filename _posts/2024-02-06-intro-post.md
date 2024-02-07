@@ -3,7 +3,6 @@ layout: post
 title: Welcome To My Blog
 subtitle: An Overview
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [meta]
 comments: true
 author: Keshav Santhanam
