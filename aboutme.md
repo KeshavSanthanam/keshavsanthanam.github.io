@@ -5,7 +5,7 @@ subtitle: My background
 
 ---
 
-I am a Computing Scholars Honors student at UT Dallas studying computer science. I will begin my Master's in 2024 to help fulfill my dream of doing research full-time. 
+I am a Computing Scholars Honors student at UT Dallas studying computer science. I will begin my Master's in 2024 to allow me to better explore topics related to artificial intelligence. Currently, I'm working towards this goal by assisting research performed in the AI Safety Laboratory at UT Dallas. 
 
 ## Some Of My Favorite Courses at UTD!
 - Machine Learning
