@@ -5,7 +5,7 @@ subtitle: My background
 
 ---
 
-I am a Computing Scholars Honors student at UT Dallas studying computer science. I will be graduating in May 2025. Currently, I'm a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation. 
+I am a Computing Scholars Honors student at UT Dallas studying computer science. I will be graduating in May 2024. Currently, I'm a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation. 
 
 ## Some Of My Favorite Courses at UTD!
 - Machine Learning
