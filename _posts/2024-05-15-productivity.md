@@ -7,8 +7,6 @@ comments: true
 author: Keshav Santhanam
 ---
 
-# Underrated/Rarely Discussed Productivity Strategies
-
 ## Introduction
 
 When we are more productive, we accomplish more in less time, meaning we can adjust our goals upward and stay ahead of deadlines. This has positive effects on goal-setting and stress management. 
@@ -21,9 +19,8 @@ Listed below are some productivity strategies with an emphasis on ones I feel ar
 
 No. I find the ones I have used useful and that's due to who I am as an individual (easily distracted, avoids low-stimulation activities, bad at managing the time I fall sleep (relevant for the napping advice)). Nevertheless, I'm sure at least a few of these are broadly useful. 
 
-#### **:warning::warning:Specific strategies/implementations I have not done myself are marked with a :warning: symbol**
-#### **:triangular_flag_on_post::triangular_flag_on_post:Specific strategies/implementations I am skeptical of are marked with a :triangular_flag_on_post: symbol**
-<!-- #### **:rocket::rocket:Specific strategies/implementations I am trying now/doing soon are marked with a :rocket: symbol** -->
+#### **⚠️⚠️Specific strategies/implementations I have not done myself are marked with a ⚠️ symbol**
+#### **🚩🚩Specific strategies/implementations I am skeptical of are marked with a 🚩 symbol**
 
 
 ## Ordered most to least helpful by my estimations...
@@ -36,28 +33,28 @@ No. I find the ones I have used useful and that's due to who I am as an individu
 - Comfortable lengths: **very individual-dependent** (but for me... 3-25 min, 40-60 min)
 - NOTE: health risks
 	- All sources I have seen have not controlled for other variables; also, the action of napping without sleeping is similar physiologically to meditation, which is well-practiced and does not seem to have adverse physical health risks. it seems like the main takeaway is that if you have chronic fatigue, napping is not a cure. here are some examples of the correlation of napping with negative health risks if you care: 
-		- https://www.nhlbi.nih.gov/news/2023/researchers-study-how-daytime-naps-may-influence-health
-		- https://newsroom.heart.org/news/study-shows-link-between-frequent-naps-and-high-blood-pressure
+		- [NIH Article](https://www.nhlbi.nih.gov/news/2023/researchers-study-how-daytime-naps-may-influence-health)
+		- [AHA Article](https://newsroom.heart.org/news/study-shows-link-between-frequent-naps-and-high-blood-pressure)
 
 ### Changes to your phone
 - Blocking (much easier to do on Android, doable on iOS with the help of iOS parental controls (I don't know much about iOS options otherwise))
 	- Soft blocking = increasing the friction to navigate to distractions while not making it impossible
 		- AppLock [Android]
 			- locks apps with passwords (making them longer makes this more effective)
-			- (preferred) https://play.google.com/store/apps/details?id=com.gamemalt.applocker
-			- (also great) https://play.google.com/store/apps/details?id=com.sp.protector.free
+			- [Preferred](https://play.google.com/store/apps/details?id=com.gamemalt.applocker)
+			- [Also great](https://play.google.com/store/apps/details?id=com.sp.protector.free)
 		- Auto App Off [Android]
 			- closes apps after a certain amount of time
 			- **very powerful when used with AppLock**
-			- https://play.google.com/store/apps/details?id=com.aozora_create.appofftimer&hl=en_US&gl=US
+			- [Link](https://play.google.com/store/apps/details?id=com.aozora_create.appofftimer&hl=en_US&gl=US)
 		- Placing a phone out of reach/in another room
-	- :warning:Hard blocking = fully (or close enough to fully) preventing you from navigating to distractions
+	- ⚠️Hard blocking = fully (or close enough to fully) preventing you from navigating to distractions
 		- (Android) Google Family Link
 			- Can block sites, apps, and more
 			- Can be implemented by having a friend hold onto the master password
 		- Lockbox
 			- Physically removing yourself from your phone for a period of time (timed lockboxes available on Amazon - **choose one that is difficult to break**)
-- :warning:Do not disturb/limiting notifications
+- ⚠️Do not disturb/limiting notifications
 	- I like to respond quickly, so I have not tried this method. 
 - Grayscale 
 	- Supposed to make using your phone (especially consuming media) worse but still accessible
@@ -71,8 +68,8 @@ No. I find the ones I have used useful and that's due to who I am as an individu
 - apps: Alarmy [Android + iOS], I Can't Wake Up! [Android] (allows multiple barcodes in free version), etc. 
 	
 ### Melatonin as a way to sleep (*not nap*) earlier than usual (without relying on lots of self-discipline)
-- :triangular_flag_on_post:melatonin 0.5-1 hr before desired sleep time 
+- 🚩melatonin 0.5-1 hr before desired sleep time 
 - WARNING: Begin dosing at <0.5 mg. May cause excess drowsiness in some people (myself included) the following day, especially during naps
 
 ## Conclusion
-I don't have much experience with most of these, so take it for what its worth. I recommend trying the lowest-effort strategies first since they may have a higher ROI (since the "I" is smaller in the "ROI"). :)  
+I don't have much experience with most of these, so take it for what its worth. I recommend trying the lowest-effort strategies first since they may have a higher ROI (since the "I" is smaller in the "ROI").
