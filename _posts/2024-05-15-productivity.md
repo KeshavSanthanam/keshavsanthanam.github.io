@@ -6,6 +6,7 @@ tags: [productivity, mental-health]
 comments: true
 author: Keshav Santhanam
 ---
+###### Last Updated: 5/18/2024
 
 ## Introduction
 
@@ -54,6 +55,11 @@ No. I find the ones I have used useful and that's due to who I am as an individu
 			- Can be implemented by having a friend hold onto the master password
 		- Lockbox
 			- Physically removing yourself from your phone for a period of time (timed lockboxes available on Amazon - **choose one that is difficult to break**)
+	- Replacing social media/web browsing with another form of the same information
+		- RSS Feeds
+			- Use RSS readers to read your favorite blog content to help replace/mitigate social media usage (the idea is to gradually shift towards longer-form content)
+   			- This strategy works best if you have a large overlap between favorite bloggers and favorite Twitter users, for example
+			- I suggest feeder.co (browser) and Feeder (Android)
 - ⚠️Do not disturb/limiting notifications
 	- I like to respond quickly, so I have not tried this method. 
 - Grayscale 
