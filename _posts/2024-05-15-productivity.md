@@ -2,17 +2,17 @@
 layout: post
 title: Underrated/Rarely Discussed Productivity Strategies
 # subtitle: An Overview
-tags: [productivity, mental-health]
+tags: [productivity]
 comments: true
 author: Keshav Santhanam
 ---
-###### Last Updated: 5/18/2024
+###### Last Updated: 5/26/2024
 
 ## Introduction
 
 When we are more productive, we accomplish more in less time, meaning we can adjust our goals upward and stay ahead of deadlines. This has positive effects on goal-setting and stress management. 
 
-Listed below are some productivity strategies with an emphasis on ones I feel are rarely discussed or surprisingly effective. Many of these are also primarily mental-health strategies, since improved productivity and mental health go hand-in-hand. **I have done many but not all of these.**
+Listed below are some productivity strategies with an emphasis on ones I feel are rarely discussed or surprisingly effective. **I have done many but not all of these.**
 
 **My general theory of short-term decision making is based on friction.** Individuals usually set long-term goals just fine, but we divert from them when it is convenient to pursue more rewarding short-term goals, even if we know we shouldn't. That's why these strategies all broadly increase executive functioning (i.e. napping) or make it harder to make bad short-term decisions (i.e. blocking). 
 
@@ -75,7 +75,7 @@ No. I find the ones I have used useful and that's due to who I am as an individu
 	
 ### Melatonin as a way to sleep (*not nap*) earlier than usual (without relying on lots of self-discipline)
 - 🚩melatonin 0.5-1 hr before desired sleep time 
-- WARNING: Begin dosing at <0.5 mg. May cause excess drowsiness in some people (myself included) the following day, especially during naps
+- Begin dosing at <0.5 mg. May cause excess drowsiness in some people (myself included) the following day, especially during naps. 
 
 ## Conclusion
-I don't have much experience with most of these, so take it for what its worth. I recommend trying the lowest-effort strategies first since they may have a higher ROI (since the "I" is smaller in the "ROI").
+I don't have much experience with most of these, so take it for what it's worth. I recommend trying the lowest-effort strategies first since they may have a higher ROI (since the "I" is smaller in the "ROI").
