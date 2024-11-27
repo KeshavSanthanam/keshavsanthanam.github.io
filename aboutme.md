@@ -5,7 +5,7 @@ subtitle: My background
 
 ---
 
-I was a Computing Scholars Honors student at UT Dallas studying computer science and graduated in May 2024. While there, I was a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation and bias detection. 
+I currently work as a software engineer for Lockheed Martin, and I was previously a Computing Scholars Honors student at UT Dallas until I graduated in May 2024. While there, I was a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation and bias detection. 
 
 ## Some Of My Favorite Courses at UTD!
 - Machine Learning
