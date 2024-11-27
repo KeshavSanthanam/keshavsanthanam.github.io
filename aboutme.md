@@ -5,7 +5,7 @@ subtitle: My background
 
 ---
 
-I am a Computing Scholars Honors student at UT Dallas studying computer science. I will be graduating in May 2024. Currently, I'm a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation. 
+I was a Computing Scholars Honors student at UT Dallas studying computer science and graduated in May 2024. While there, I was a research assistant in the AI Safety Laboratory at UT Dallas working on LLM uncertainty estimation and bias detection. 
 
 ## Some Of My Favorite Courses at UTD!
 - Machine Learning
@@ -16,7 +16,7 @@ I am a Computing Scholars Honors student at UT Dallas studying computer science.
 - Discrete Math I and II
 - Automata Theory
 
-## Tools I Use
+## Tools I Have Used
 - **Languages:** Python, C/C++, Java, React Native, JavaScript, SQL, HTML/CSS, MIPS32, Bash, Verilog
 - **Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, NumPy, pandas, Matplotlib, Standard Template Library (C++)
 - **Developer Tools:** Git, Jupyter Notebooks, Google Firebase, Figma
