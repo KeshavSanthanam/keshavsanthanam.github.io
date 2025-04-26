@@ -12,11 +12,13 @@ You are given an array of k linked lists, where each linked list is sorted in as
 
 ## Testcases
 [Below represented as a series of 3 (k) linked lists.]
+
 lists = [
     [1,4,5],
     [1,3,4],
     [2,6]
 ]
+
 Output: [1,1,2,3,4,4,5,6]
 
 # Initial Result
