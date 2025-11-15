@@ -1,0 +1,249 @@
+/* Soft Earth Tones Theme */
+:root {
+    --bg-primary: #f5f1e8;
+    --bg-secondary: #e8e3d6;
+    --text-primary: #3d3630;
+    --text-secondary: #6b6256;
+    --accent-primary: #a8896c;
+    --accent-secondary: #c4a57b;
+    --accent-tertiary: #8b7355;
+    --border-color: #d4c9b8;
+    --card-bg: #faf8f3;
+    --link-color: #7a6550;
+    --link-hover: #5d4d3e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+/* Bio Section */
+.section {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.section:last-of-type {
+    border-bottom: none;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    font-weight: 400;
+}
+
+.bio-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.bio-content p {
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.social-links {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 0.75rem;
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.social-links a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+/* Section Headers */
+h2 {
+    font-size: 1.75rem;
+    color: var(--text-primary);
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+}
+
+/* Two Column Layout */
+.two-column-layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 3rem;
+    align-items: start;
+}
+
+.column-left {
+    position: sticky;
+    top: 2rem;
+}
+
+.column-right {
+    min-width: 0;
+}
+
+/* Projects Section */
+.projects-grid {
+    display: grid;
+    gap: 1.25rem;
+}
+
+.project-item {
+    background: var(--card-bg);
+    padding: 1.25rem;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(61, 54, 48, 0.08);
+}
+
+.project-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.project-item h3 a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.project-item h3 a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+.project-item p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+/* Blog Section */
+.category {
+    margin-bottom: 2rem;
+}
+
+.category-title {
+    font-size: 1.3rem;
+    color: var(--accent-tertiary);
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.post-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.post-item {
+    margin-bottom: 0.75rem;
+    padding: 0.5rem 0;
+}
+
+.post-link {
+    color: var(--link-color);
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.2s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+}
+
+.post-link:hover {
+    color: var(--link-hover);
+}
+
+.post-title {
+    flex: 1;
+}
+
+.post-date {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    border-top: 1px solid var(--border-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem 1rem;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    /* Stack columns on mobile */
+    .two-column-layout {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .column-left {
+        position: static;
+    }
+
+    .post-link {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .social-links a {
+        margin: 0 0.5rem;
+    }
+}
