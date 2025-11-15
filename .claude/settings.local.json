@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(python build.py:*)",
+      "Bash(python3:*)",
+      "Bash(where:*)",
+      "Bash(node build.js:*)",
+      "Bash(node preview.js:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(*)"
+    ],
+    "deny": [],
+    "ask": [
+      // File Deletion/Modification
+      "Bash(rm *)",
+      "Bash(mv *)",
+      "Bash(shred *)",
+
+      // Network Access (potential data exfiltration/malicious fetches)
+      "WebFetch", // Deny the WebFetch tool explicitly
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(fetch *)",
+      "Bash(ftp *)",
+
+      // Sensitive File Read Access
+      "Read(./.env)",
+      "Read(./secrets/**)",
+      "Read(./config/*.prod.yml)",
+      "Read(/etc/shadow)",
+      "Read(/etc/passwd)",
+      "Read(~/.ssh/**)",
+      "Read(~/.aws/**)",
+
+      // Potential privilege escalation
+      "Bash(sudo *)",
+
+      // Dangerous overrides/redirections
+      "Bash(echo * > *)",
+      "Bash(cat * > *)",
+      "Bash(tee *)"
+    ]
+  }
+}
