@@ -1,4 +1,11 @@
-# Profit on the table
+---
+layout: post
+title: Profit On The Table
+# subtitle: An Overview
+tags: [General]
+comments: true
+author: Keshav Santhanam
+---
 
 This is a **continously growing list** of improvements that may or may not work (I don't know anything about most sectors/parts of the government - I just read things online).  
 
