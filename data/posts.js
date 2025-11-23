@@ -1,7 +1,23 @@
 // Auto-generated posts data
-// Last updated: 2025-11-15T07:13:19.050Z
+// Last updated: 2025-11-23T00:00:00.000Z
 
 const postsData = {
+  "general": [
+    {
+      "title": "Don't Overuse Irrational",
+      "date": "2025-11-16",
+      "tag": "general",
+      "filename": "2025-11-16-dont-overuse-irrational.md",
+      "url": "post.html?post=2025-11-16-dont-overuse-irrational"
+    },
+    {
+      "title": "Profit On The Table",
+      "date": "2025-11-15",
+      "tag": "general",
+      "filename": "2025-11-15-profit-on-the-table.md",
+      "url": "post.html?post=2025-11-15-profit-on-the-table"
+    }
+  ],
   "algorithms": [
     {
       "title": "Median of Two Sorted Arrays",
@@ -426,6 +442,20 @@ const postsData = {
 };
 
 const allPosts = [
+  {
+    "title": "Don't Overuse Irrational",
+    "date": "2025-11-16",
+    "tag": "general",
+    "filename": "2025-11-16-dont-overuse-irrational.md",
+    "url": "post.html?post=2025-11-16-dont-overuse-irrational"
+  },
+  {
+    "title": "Profit On The Table",
+    "date": "2025-11-15",
+    "tag": "general",
+    "filename": "2025-11-15-profit-on-the-table.md",
+    "url": "post.html?post=2025-11-15-profit-on-the-table"
+  },
   {
     "title": "Median of Two Sorted Arrays",
     "date": "2025-05-27",
