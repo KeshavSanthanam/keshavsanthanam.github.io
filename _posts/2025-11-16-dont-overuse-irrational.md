@@ -7,4 +7,9 @@ comments: true
 author: Keshav Santhanam
 ---
 ## 
+- *formal definition of irrational - econ background maybe*
+- we overruse the term irrational
+- all of us understand the *something like staying near friends example*
+- some thoughts ...
+
 
