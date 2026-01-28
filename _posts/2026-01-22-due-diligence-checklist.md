@@ -5,12 +5,12 @@ tags: [due-diligence]
 author: Keshav Santhanam
 ---
 
-Systematizing the investigation phase between LOI and close:
+Due diligence after LOI and before close: 
 
 ## Phase 1: Financial Due Diligence (Weeks 1-3)
 
 **Tax Returns vs Financial Statements**
-- Compare seller-prepared financials to tax returns (always differences—how big?)
+- Compare seller-prepared financials to tax returns (always at least some differences will exist)
 - Reconcile revenue: cash vs accrual, timing differences
 - Understand add-backs: Are they legitimate or aggressive?
 
@@ -18,7 +18,6 @@ Systematizing the investigation phase between LOI and close:
 - Revenue sustainability: recurring vs one-time, customer concentration
 - Expense normalization: what's truly recurring?
 - Working capital analysis: normal vs current levels
-- For deals >$2M, consider hiring QofE firm ($15-30K)
 
 **Customer Analysis**
 - Top 20 customers: revenue, tenure, concentration risk
@@ -37,14 +36,13 @@ Systematizing the investigation phase between LOI and close:
 **Operations Deep Dive**
 - Shadow key employees and understand workflows
 - Identify bottlenecks and inefficiencies
-- Document standard operating procedures (or lack thereof)
 - Understand capacity: Can we grow without major CapEx?
 
 **People and Organization**
 - Org chart: Who actually does what?
 - Compensation analysis: market rates, retention risk
 - Key person dependency: What happens if GM quits?
-- Employee sentiment (if you can gauge it)
+- Employee sentiment (**need** to talk to them)
 - Any HR liabilities: lawsuits, worker's comp claims
 
 **Technology and Systems**
@@ -105,10 +103,9 @@ Systematizing the investigation phase between LOI and close:
 - Marketing spend and effectiveness
 - CAC and LTV economics
 
-## Red Flags That Would Make Me Walk
+## Red Flags
 
 **Financial Red Flags**
-- Revenue declining >10% YoY without clear explanation
 - Customer concentration >40% in top 3 customers
 - Gross margins declining (pricing pressure indicator)
 - Unexplained cash vs accrual differences
@@ -155,27 +152,23 @@ Systematizing the investigation phase between LOI and close:
 - Licenses and permits
 - IP registrations
 
-## My Due Diligence Timeline
+## My Due Diligence Timeline (in order)
 
-**Week 1-2: Financial deep dive**
+**Financial deep dive**
 - Analyze financials, build model, identify questions
 - Start customer and vendor analysis
 
-**Week 3-4: Operational and legal**
+**Operational and legal**
 - Site visits, shadow operations
 - Employee conversations
 - Legal document review
 
-**Week 4-5: Commercial validation**
+**Commercial validation**
 - Customer calls (critical)
 - Vendor calls
 - Market research
 
-**Week 5-6: Integration planning**
+**Integration planning**
 - 100-day plan
 - Financing finalization
 - Purchase agreement negotiation
-
-## Key Insight
-
-Due diligence is not about finding reasons to kill the deal—it's about understanding what you're buying and confirming assumptions from LOI. Most deals have issues; question is whether they're fixable or fatal. Use DD to adjust price/terms (if appropriate) and build integration plan. If you find too many surprises, that's a signal to walk—but expect some surprises in every deal.

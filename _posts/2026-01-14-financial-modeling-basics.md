@@ -62,7 +62,7 @@ If unit economics are way off from industry benchmarks, dig deeper.
 - DSCR = (EBITDA - Taxes - CapEx) / (Principal + Interest)
 - If DSCR <1.25x, you'll need more equity or seller note
 
-**Example Deal Math**
+**Example Purchasing Math**
 - Purchase price: $2.5M
 - SBA loan: $2.25M (90%)
 - Equity: $250K (10%)
@@ -113,12 +113,6 @@ If unit economics are way off from industry benchmarks, dig deeper.
 
 ## Red Flags in the Model
 
-**Deal Doesn't Pencil Without Heroic Assumptions**
-- Need >10% revenue growth to make returns work
-- Assuming major margin expansion (200+ bps)
-- CapEx way below depreciation (deferred maintenance)
-- DSCR <1.25x even with optimistic assumptions
-
 **Working Capital Trap**
 - Fast-growing business that consumes cash
 - Seasonal business with massive WC swings
@@ -157,6 +151,5 @@ If unit economics are way off from industry benchmarks, dig deeper.
 - Equals equity value
 - Target: 2-3x equity in 5 years
 
-## Key Insight
-
-Model is only as good as assumptions. Garbage in, garbage out. I focus on making defensible, conservative assumptions in base case. If deal still looks good with boring assumptions, it's worth pursuing. If it requires perfect execution and market tailwinds to work, pass. There are enough good deals that don't require heroics.
+## Summary
+My model should weight assumptions based on the P(correct) for each assumption made. 

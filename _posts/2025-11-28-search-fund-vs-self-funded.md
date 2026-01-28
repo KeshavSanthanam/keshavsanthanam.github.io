@@ -13,7 +13,7 @@ Weighing the traditional search fund model against self-funded search:
 - Raise $400-600K in search capital from 15-25 investors
 - 12-24 month search timeline with salary support ($80-120K/year)
 - Investors get equity (typically 30-40% post-search dilution)
-- Same investors fund the acquisition (or facilitate bank financing)
+- Same investors fund the acquisition or facilitate bank financing
 - Ongoing board involvement and governance
 
 **Advantages**
@@ -39,10 +39,10 @@ Weighing the traditional search fund model against self-funded search:
 - Raise acquisition capital deal-by-deal (SBA, investors, earn-outs)
 
 **Advantages**
-- Keep 20-30% more equity (no search fund dilution)
+- Keep much more equity (most likely a majority)
 - Total flexibility: search timeline, industry focus, deal size
 - No board or investor consensus needed during search
-- Can maintain day job during search (though slower)
+- Can maintain day job during search if needed
 - Only fundraise once you have a compelling deal
 
 **Disadvantages**
@@ -50,9 +50,8 @@ Weighing the traditional search fund model against self-funded search:
 - Acquisition financing harder without committed capital partners
 - No experienced investor group pressure-testing your thinking
 - Easier to pursue mediocre deal due to sunk cost fallacy
-- Lonelier process—no built-in peer group
 
-## What I'm Seeing in the Data
+## 2024 Stanford Search Fund Study findings
 
 **Traditional Search Fund Returns (2000-2020)**
 - ~70% of funds find and acquire a business
@@ -66,33 +65,8 @@ Weighing the traditional search fund model against self-funded search:
 - More flexibility leads to both home runs and disasters
 - Acquisition success rate appears lower (~50%?) but hard to measure
 
-## My Personal Calculus
-
-**Leaning Self-Funded Because:**
-- Want to maintain flexibility on timeline (could take 2-3 years)
-- Not ready to commit to 12-month full-time search
-- Prefer keeping equity vs having structured support
-- Current job provides optionality to search part-time
-- Comfortable with uncertainty and less structure
-
-**Search Fund Advantages I'll Miss:**
-- Pattern recognition from experienced investors
-- Forcing function of search timeline
-- Built-in acquisition capital
-- Network and industry connections
-- Peer group of other searchers
-
 ## Hybrid Approach I'm Considering
-
-**Phase 1: Self-Funded Exploration (6-12 months)**
-- Search nights/weekends while employed
-- Build industry knowledge, network, deal flow
-- If I find compelling opportunity → raise acquisition capital around specific deal
-
-**Phase 2: Decision Point**
-- If search is promising but need full-time focus → raise search fund then
-- If found deal → pursue with SBA + individual investors
-- If not gaining traction → reevaluate or pause
+- Decide during MBA based on investor prospects and my pre-MBA ETA experience
 
 ## Key Insight
 Traditional search fund makes sense if you:
@@ -102,8 +76,4 @@ Traditional search fund makes sense if you:
 
 Self-funded makes sense if you:
 - Have income source during search (job, savings, spouse)
-- Prioritize flexibility and equity over structure
-- Comfortable with ambiguity and longer timeline
 - Have network to source acquisition capital deal-by-deal
-
-I'm starting self-funded with option to raise search fund if the right opportunity emerges.

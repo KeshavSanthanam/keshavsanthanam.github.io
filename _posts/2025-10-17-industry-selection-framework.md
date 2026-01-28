@@ -11,7 +11,7 @@ Narrowing down from "all businesses" to targetable industries:
 
 **Fragmentation**
 - Industries with <20% market share by top 3 players
-- Indicates room for regional players to thrive
+	- Indicates room for regional players to thrive
 - Less risk of being squeezed by national consolidators
 - Examples: specialized manufacturing, regional distribution, niche services
 
@@ -30,7 +30,7 @@ Narrowing down from "all businesses" to targetable industries:
 ## Industries I'm Deprioritizing
 
 **High Customer Concentration**
-- If top 3 customers = >50% revenue, pass
+- Top 3 customers are more than 50% revenue
 - Government contractors with single agency dependency
 - Supplier businesses tied to one major manufacturer
 
@@ -41,8 +41,8 @@ Narrowing down from "all businesses" to targetable industries:
 
 **Extreme Regulatory Burden**
 - Healthcare providers navigating insurance networks (too complex for first-time operator)
-- Food manufacturing (USDA compliance learning curve)
-- Although: established businesses with compliance already figured out could work
+- Food manufacturing (Compliance)
+- However, an established businesses with compliance already figured out could work
 
 ## Industries Moving Up My List
 
@@ -54,6 +54,5 @@ Narrowing down from "all businesses" to targetable industries:
 ## What I'm Learning
 
 - Industry matters less than business quality and my ability to add value
-- But starting with favorable industry dynamics stacks odds in my favor
-- Looking for 3-5 industries to develop deep knowledge over next 6 months
-- Talking to operators >>> reading reports about industries
+- Should narrow to 3-5 industries and research them cyclically
+- Find ways to talk to operators

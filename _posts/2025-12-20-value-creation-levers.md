@@ -11,13 +11,13 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 
 **Low-Hanging Fruit**
 - Pricing increases (3-5% annually often feasible if not done historically)
-- Upselling existing customers (expand wallet share)
-- Reactivating churned customers (win-back campaigns)
+- Upselling existing customers
+- Reactivating churned customers
 - Geographic expansion within existing model
 
 **Higher Effort**
 - New product/service offerings adjacent to core
-- New customer segments (if replicable go-to-market)
+- New customer segments 
 - M&A/tuck-ins (buy competitors or complementary businesses)
 
 **Realistic Expectations**
@@ -30,11 +30,11 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 **COGS/Direct Cost Reduction**
 - Vendor renegotiation (consolidate suppliers, volume discounts)
 - Waste reduction in manufacturing/service delivery
-- Labor efficiency (process improvement, better scheduling)
-- Shrinkage/theft reduction (surprising how common in SMBs)
+- Labor efficiency
+- Shrinkage/theft reduction (count at multiple points)
 
 **Operating Expense Optimization**
-- Technology/software consolidation (SMBs often have redundant tools)
+- Technology/software consolidation
 - Facilities optimization (renegotiate lease, right-size space)
 - Insurance/benefits shopping (rarely optimized in small businesses)
 - Marketing spend efficiency (cut what doesn't work, double down on what does)
@@ -46,8 +46,8 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 ## Working Capital Efficiency
 
 **Quick Wins**
-- Accounts receivable: tighten credit terms, faster invoicing, collections process
-- Inventory: reduce safety stock, improve turnover, eliminate obsolete SKUs
+- Accounts receivable: tighten credit terms, maintain or start a collections process
+- Inventory: eliminate obsolete SKUs (here you can simplify "production")
 - Accounts payable: extend terms (without damaging vendor relationships)
 
 **Impact**
@@ -66,12 +66,6 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 - CRM for sales (if not already in place)
 - Basic automation for invoicing, collections, scheduling
 - Financial reporting and dashboards
-- Not about fancy tech—just bringing SMB to baseline modern practices
-
-**Benefits**
-- Reduced owner time required (higher quality of life and sellable at higher multiple later)
-- Scalability: can grow without proportional overhead increase
-- Reduced risk: less dependent on any one person
 
 ## Multiple Expansion (The Real Prize)
 
@@ -82,11 +76,10 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 - Net gain: $700K despite lower earnings (due to GM salary)
 
 **Quality Improvements That Drive Multiple**
-- Customer diversification (reduce concentration risk)
-- Recurring revenue vs project-based
+- Customer diversification
 - Documented processes and systems
 - Professional management team
-- Growth trajectory
+- Growth plans
 
 ## My Mental Model for Value Creation
 
@@ -129,6 +122,6 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 - Multiple expansion + industry tailwinds
 - >5x MOIC in 5-7 years
 
-## Key Insight
+## Summary
 
-Don't need to reinvent the business to create value. Bringing professional management, basic systems, and operational discipline to a ~$2M EBITDA business that's been owner-operated for 20 years can create 40-50% value in first 3 years. That + modest growth + multiple expansion = attractive returns without heroics.
+Bringing professional management and operational discipline to a ~$2M EBITDA business that's been owner-operated for 20 years can create 40-50% value in first 3 years.

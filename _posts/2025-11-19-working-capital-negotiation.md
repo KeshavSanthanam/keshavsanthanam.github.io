@@ -30,13 +30,13 @@ Working capital provisions can swing deal value by 20-30%. Here's what I'm learn
 
 **Dollar Peg**
 - "Seller to deliver $400K in working capital at close"
-- Clear, simple, easy to calculate
+-  Easy to calculate
 - Requires agreement on what's "normal" upfront
 
 **Floating Target**
 - "Working capital to be delivered = average of prior 24 months"
 - Calculated at close based on formula
-- More flexible, less chance of gaming
+- More flexible
 
 **Range/Collar**
 - "WC between $350-450K, no adjustment. Outside range = dollar-for-dollar adjustment"
@@ -46,8 +46,7 @@ Working capital provisions can swing deal value by 20-30%. Here's what I'm learn
 ## Items I'm Learning to Negotiate
 
 **Excluded from Working Capital**
-- Cash (you're buying the business, not their cash reserves)
-- Debt (handled separately in enterprise value calculation)
+- Cash/Debt (you're buying the business in an asset sale)
 - Shareholder loans or related party receivables
 - Often: prepaid expenses (depends on nature)
 
@@ -61,7 +60,6 @@ Working capital provisions can swing deal value by 20-30%. Here's what I'm learn
 
 **Aggressive Collections Pre-Close**
 - Offering steep discounts to collect AR quickly
-- Damages customer relationships
 - Leaves you with slow-paying customers only
 - Mitigation: collar/cap on how much AR can decline
 
@@ -78,11 +76,11 @@ Working capital provisions can swing deal value by 20-30%. Here's what I'm learn
 ## Buyer Protections in LOI
 
 - Define working capital components specifically
-- Set target based on historical average (show your math)
+- Set target based on historical average (include your math in any negotiation)
 - Require monthly WC reporting between LOI and close
 - Right to object to unusual changes in AR/AP/Inventory
-- Post-close adjustment mechanism (usually within 30-90 days)
-- Escrow or holdback for disputed amounts
+- Post-close adjustment mechanism (usually 30-90 days)
+- Escrow or holdback for disputed amounts (indemnification)
 
 ## Real Example I'm Studying
 
@@ -91,6 +89,3 @@ $3M purchase price, $450K normal working capital:
 - Shortfall: $70K
 - Adjustment: Buyer pays $2.93M instead of $3M, or
 - Seller wires $70K to business after close
-
-## Key Takeaway
-Working capital is not part of the purchase price—it's what you need to operate the business day one. Seller shouldn't get to extract it before handing you the keys. Define it clearly in LOI, monitor it during diligence, and adjust at close.

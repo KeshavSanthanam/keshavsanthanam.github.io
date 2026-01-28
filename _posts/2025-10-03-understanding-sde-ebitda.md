@@ -11,7 +11,10 @@ Key differences that matter when evaluating sub-$5M businesses:
 - Adds back owner's salary and benefits to EBITDA
 - Assumes single owner-operator model
 - More relevant for businesses <$2M EBITDA
-- Common add-backs: owner compensation, personal expenses run through business, one-time expenses
+- Common add-backs: 
+	- owner compensation 
+	- personal expenses run through business (weird sign)
+	- one-time expenses
 - Typical multiples: 2-4x SDE depending on industry and growth
 
 ## When SDE Makes More Sense
@@ -24,7 +27,7 @@ Key differences that matter when evaluating sub-$5M businesses:
 - Generally more appropriate above $2M in earnings
 - Assumes professional management team in place
 - Seller can step away without operational disruption
-- Multiple expansion: 4-7x EBITDA for established businesses
+- Multiple expansion: 4-7x EBITDA available for established businesses at exit
 
 ## Practical Implications for Search
 - Don't compare SDE multiples to EBITDA multiples directly
@@ -32,8 +35,8 @@ Key differences that matter when evaluating sub-$5M businesses:
 - Need to normalize for owner replacement cost
 - Factor in $80K-150K for hiring general manager if buying SDE-valued business
 
-## Red Flags I'm Learning to Spot
+## Red Flags
 - SDE calculations that add back "theoretical" expenses
-- Owners claiming they barely work (if true, why SDE valuation?)
+- Owners claiming they barely work (If true, why SDE valuation? Also, why sell?)
 - Aggressive add-backs for family members who actually work there
-- Comparing their 2.5x SDE ask to a 5x EBITDA comp—different metrics entirely
+- Comparing their 2.5x SDE ask to a 5x EBITDA sale price

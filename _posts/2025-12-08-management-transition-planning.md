@@ -17,7 +17,7 @@ The 100-day plan before and after acquisition close:
 - Where are the passwords, literally?
 
 **Relationship Building**
-- Shadow seller in customer meetings (if possible pre-close)
+- Shadow seller in customer meetings (if possible, pre-close)
 - Meet key employees informally (coffee, lunch)
 - Understand company culture and unwritten rules
 - Identify who the real influencers are (not just titles)
@@ -26,12 +26,10 @@ The 100-day plan before and after acquisition close:
 - Agree on announcement strategy (employees, customers, vendors)
 - Transition services agreement (TSA) scope and duration
 - Seller's ongoing role (if any): advisor, consultant, equity holder?
-- What's motivating the seller? (Retirement, health, burnout, new opportunity)
 
 ## First 30 Days Post-Close
 
 **Do Not:**
-- Change everything at once
 - Announce grand strategic vision without understanding current state
 - Fire or promote people without deep understanding
 - Renegotiate customer/vendor contracts aggressively
@@ -60,17 +58,16 @@ The 100-day plan before and after acquisition close:
 - Establish your management rhythm (weekly team meeting, monthly reviews)
 
 **Common Pitfalls I'm Trying to Avoid**
-- Implementing systems from your last job that don't fit this business
-- Underestimating how much tribal knowledge lives in people's heads
-- Moving too fast and spooking customers or employees
-- Analysis paralysis: waiting for perfect information before any decision
+- Underestimating resistance to change among key employees
+- Moving too fast and spooking customers
+- Waiting for perfect information before any decision
 
 ## Days 61-100: Initial Improvements
 
 **By Day 100, Goal Is:**
 - Stable revenue (not declining due to transition)
 - No key employee departures (or backfilled if unavoidable)
-- 1-2 operational improvements implemented (not planned—actually done)
+- 1-2 operational improvements implemented
 - Clear understanding of where value will be created in year 1
 - Financial reporting and metrics in place to track progress
 
@@ -78,39 +75,13 @@ The 100-day plan before and after acquisition close:
 - Pricing optimization (small businesses often underpriced)
 - Accounts receivable collection (tighten credit terms, follow up faster)
 - Vendor renegotiation (better terms, consolidate suppliers)
-- Marketing/sales: systematize what owner did intuitively
+- Marketing/sales: try new sources
 - Basic process documentation (reduces key person risk)
-
-## Seller Transition Models
-
-**Clean Break (Seller Leaves at Close)**
-- Pros: Clear ownership, forces institutional knowledge capture
-- Cons: Risky if business highly dependent on seller relationships
-- Works best: Systems-driven businesses, seller burned out or difficult
-
-**Short Transition (30-90 Days)**
-- Seller available for questions, introductions, training
-- Typically paid via consulting agreement ($5-15K/month)
-- Most common structure for main street businesses
-
-**Long Transition (6-12 Months)**
-- Seller stays in reduced role (part-time, advisory)
-- Good for relationship-heavy businesses (insurance, professional services)
-- Risk: Seller can't let go, undermines new owner authority
-
-**Ongoing (Seller Stays as Employee)**
-- Rare and usually problematic
-- Only works if clear role definition and seller truly willing to be IC not CEO
-- Watch for: seller second-guessing, employees confused about who's in charge
 
 ## Key Metrics to Track During Transition
 
 - Revenue retention by customer (especially top 20)
-- Employee turnover (especially key roles)
+- Employee turnover
 - Gross margin (early indicator if something's breaking)
-- Customer acquisition (are we still winning new business?)
-- Accounts receivable aging (are customers still paying?)
-
-## My Current Thinking
-
-The first 100 days are about earning the right to lead, not proving you're smart. Show respect for what's been built, understand before changing, and build trust before making big moves. Small businesses often fail post-acquisition not because the buyer's strategy was wrong, but because they lost key customers or employees during a chaotic transition.
+- Customer acquisition
+- Accounts receivable aging
