@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search Fund vs Self-Funded Search - My Decision Framework
+title: Search Fund vs Self-Funded Search
 tags: [search-strategy]
 author: Keshav Santhanam
 ---

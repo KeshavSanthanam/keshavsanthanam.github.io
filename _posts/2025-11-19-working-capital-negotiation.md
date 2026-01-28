@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working Capital in LOIs - The Hidden Price Adjustment
+title: Working Capital in LOIs
 tags: [deal-structure]
 author: Keshav Santhanam
 ---

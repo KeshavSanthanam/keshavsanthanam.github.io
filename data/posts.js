@@ -3,7 +3,7 @@ const postsData = {
   "due-diligence": [
     {
       "slug": "2026-01-22-due-diligence-checklist",
-      "title": "Due Diligence Checklist Essentials",
+      "title": "Due Diligence Checklist",
       "date": "2026-01-22",
       "tags": [
         "due-diligence"
@@ -12,7 +12,7 @@ const postsData = {
     },
     {
       "slug": "2025-11-05-quality-of-earnings-101",
-      "title": "Quality of Earnings - What I'm Learning to Look For",
+      "title": "Quality of Earnings",
       "date": "2025-11-05",
       "tags": [
         "due-diligence"
@@ -43,7 +43,7 @@ const postsData = {
   "deal-sourcing": [
     {
       "slug": "2026-01-06-seller-psychology",
-      "title": "Understanding Seller Motivations",
+      "title": "Seller Psychology",
       "date": "2026-01-06",
       "tags": [
         "deal-sourcing"
@@ -74,7 +74,7 @@ const postsData = {
   "search-strategy": [
     {
       "slug": "2025-11-28-search-fund-vs-self-funded",
-      "title": "Search Fund vs Self-Funded Search - My Decision Framework",
+      "title": "Search Fund vs Self-Funded Search",
       "date": "2025-11-28",
       "tags": [
         "search-strategy"
@@ -83,7 +83,7 @@ const postsData = {
     },
     {
       "slug": "2025-10-29-deal-sourcing-reality-check",
-      "title": "Deal Sourcing Reality Check",
+      "title": "Deal Sourcing",
       "date": "2025-10-29",
       "tags": [
         "search-strategy"
@@ -103,7 +103,7 @@ const postsData = {
   "deal-structure": [
     {
       "slug": "2025-11-19-working-capital-negotiation",
-      "title": "Working Capital in LOIs - The Hidden Price Adjustment",
+      "title": "Working Capital in LOIs",
       "date": "2025-11-19",
       "tags": [
         "deal-structure"
