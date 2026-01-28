@@ -1,1 +1,17 @@
+# Old website backup
 OLD3_keshavsanthanam.github.io-main/
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+*.log
+npm-debug.log*
