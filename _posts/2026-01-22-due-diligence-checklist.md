@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Due Diligence Checklist Essentials
+title: Due Diligence Checklist
 tags: [due-diligence]
 author: Keshav Santhanam
 ---
