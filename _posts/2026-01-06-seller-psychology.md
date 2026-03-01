@@ -16,7 +16,7 @@ author: Keshav Santhanam
 **"Business has so much potential"**
 - Translation: I haven't captured it, maybe you can
 - Either they lack skills/capital/motivation, or potential isn't real
-- Ask: What's stopping you from capturing it? (Usually reveals the real constraint)
+- "What's stopping you from capturing it?" (Usually reveals the real constraint)
 
 **"Family doesn't want the business"**
 - Can be great opportunity if business is solid

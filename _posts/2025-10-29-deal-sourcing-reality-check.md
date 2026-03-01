@@ -11,9 +11,9 @@ author: Keshav Santhanam
 - Best use of broker relationships: understanding what sells, not expecting hidden gems
 - Seeing same recycled listings across BizBuySell, Axial, others
 
-## Better Opportunities
+## Higher-Quality Sourcing
 - Business owners I get introduced to through intermediaries
-- Accountants and lawyers as referral sources
+- Accountants and lawyers
 - Industry trade groups and associations
 - Owners who've been through an exit before (guidance mainly)
 
@@ -37,6 +37,6 @@ author: Keshav Santhanam
 
 ## Metrics I'm Tracking
 - New owner conversations per week: targeting 5-7
-- Second conversations (signal of serious interest): targeting 2-3
+- Second conversations with sellers: targeting 2-3
 - LOI-worthy opportunities per quarter: hoping for 1-2
 - Time from first contact to serious conversation: averaging 6-8 weeks

@@ -14,7 +14,7 @@ The 100-day plan before and after acquisition close:
 - Map key customer relationships and ownership
 - Identify critical vendor relationships and terms
 - Understand employee roles, comp, and institutional knowledge
-- Where are the passwords, literally?
+- Know all passwords, systems, vendor agreements
 
 **Relationship Building**
 - Shadow seller in customer meetings (if possible, pre-close)
@@ -26,6 +26,7 @@ The 100-day plan before and after acquisition close:
 - Agree on announcement strategy (employees, customers, vendors)
 - Transition services agreement (TSA) scope and duration
 - Seller's ongoing role (if any): advisor, consultant, equity holder?
+	- Anything more than 20% equity and 12 months as consultant not feasible due to current SOP 
 
 ## First 30 Days Post-Close
 

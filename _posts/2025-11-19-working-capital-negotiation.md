@@ -82,7 +82,7 @@ Working capital provisions can swing deal value by 20-30%. Here's what I'm learn
 - Post-close adjustment mechanism (usually 30-90 days)
 - Escrow or holdback for disputed amounts (indemnification)
 
-## Real Example I'm Studying
+## Real Example
 
 $3M purchase price, $450K normal working capital:
 - At close audit: $380K actual WC delivered

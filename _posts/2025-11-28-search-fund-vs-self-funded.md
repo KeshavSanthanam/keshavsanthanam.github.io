@@ -70,7 +70,7 @@ Weighing the traditional search fund model against self-funded search:
 
 ## Key Insight
 Traditional search fund makes sense if you:
-- Can afford 3-6 month fundraise + 12-24 month search without income gap
+- Want to cap your downside to just a small initial investment
 - Value structure, mentorship, pattern recognition > equity
 - Want to search full-time and have financial runway
 

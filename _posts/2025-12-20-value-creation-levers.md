@@ -57,8 +57,7 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 ## Operational Improvements
 
 **Process Standardization**
-- Document tribal knowledge
-- Reduce key person dependency
+- Document tribal knowledge to reduce key person dependency
 - Implement basic SOP for critical functions
 - Cross-training to reduce single points of failure
 
@@ -94,7 +93,6 @@ Where does the value come from post-acquisition? Mapping realistic improvement o
 - Hire key roles (GM, sales lead, ops manager)
 - Additional 2-3% margin improvement
 - Technology and process improvements
-- Target: 30-40% cumulative value creation
 
 **Years 3-5: Scale + Multiple Expansion**
 - M&A/tuck-ins if capital available

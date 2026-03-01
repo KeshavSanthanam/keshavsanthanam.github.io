@@ -31,12 +31,12 @@ Key differences that matter when evaluating sub-$5M businesses:
 
 ## Practical Implications for Search
 - Don't compare SDE multiples to EBITDA multiples directly
-- A business at 3.5x SDE might be equivalent to 6-7x EBITDA
+	- A business at 3.5x SDE might be equivalent to 6-7x EBITDA
 - Need to normalize for owner replacement cost
 - Factor in $80K-150K for hiring general manager if buying SDE-valued business
 
 ## Red Flags
 - SDE calculations that add back "theoretical" expenses
-- Owners claiming they barely work (If true, why SDE valuation? Also, why sell?)
+- Owners claiming they barely work (If true, why SDE valuation model? Also, why sell?)
 - Aggressive add-backs for family members who actually work there
 - Comparing their 2.5x SDE ask to a 5x EBITDA sale price

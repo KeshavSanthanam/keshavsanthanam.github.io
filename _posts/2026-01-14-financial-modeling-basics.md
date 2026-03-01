@@ -53,7 +53,7 @@ If unit economics are way off from industry benchmarks, dig deeper.
 **Typical SBA 7(a) Terms**
 - Up to 90% financing (10% down payment)
 - Max loan: $5M
-- Interest rate: Prime + 2.75% (currently ~10-11%)
+- Interest rate: Prime + 2.75% (currently ~12%)
 - Term: 10 years
 - Monthly payments (principal + interest)
 
